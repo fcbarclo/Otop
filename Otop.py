@@ -11,8 +11,7 @@ from OtopClass import Otop
 if __name__ == "__main__":
 	
 	# login information
-	# LogInfo=[user,password,host,service]
-	#LoginInfo=['oracle_user','oracle_password','oracle_server','oracle_service']
+	#LoginInfo=['oracle_user','oracle_password','oracle_server_IP_or_hostname','oracle_service']
 
 	# screen minimum size: y=38, x=168
 	myOtop = Otop(LoginInfo) 

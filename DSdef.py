@@ -199,7 +199,7 @@ class DSdef():
 		
 
 	def makelineshow(self,data_rows,data_struct, DSdescr):
-		# costruisce righe da visualizzare come stringhe , con interspazi calcolati in base alla struttura
+		# make rows to show as strings , with inside spaces derived from structure 
 		rows=[]
 		if len(data_rows) > 0:
 			try:
