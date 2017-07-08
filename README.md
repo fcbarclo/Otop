@@ -13,6 +13,6 @@ Oracle dbms requirements:
 
 Edit Otop.py  and put the db data connection into LoginInfo[] struct.
 
-Set terminal (rows,cols) size to (39,168) for default output, and to (39,232) for  more details.
+Set terminal (rows,cols) size to (39,174) for default output, and to (39,232) for  more details.
 
 Start Otop.py
