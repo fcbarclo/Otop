@@ -18,4 +18,4 @@ Set terminal (rows,cols) size to (39,174) for default output, and to (39,232) fo
 Start Otop.py
 
 
-[Watch demo](https://youtu.be/FzfSzVO7JHo)
+[Watch demo ](https://youtu.be/FzfSzVO7JHo)
