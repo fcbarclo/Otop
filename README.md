@@ -17,5 +17,5 @@ Set terminal (rows,cols) size to (39,174) for default output, and to (39,232) fo
 
 Start Otop.py
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=FzfSzVO7JHo" target="_blank"><img src="http://img.youtube.com/vi/FzfSzVO7JHo/0.jpg" 
-alt="Alt Watch demo" width="200" height="120" border="10" /></a>
+
+[Watch demo](https://youtu.be/FzfSzVO7JHo)
